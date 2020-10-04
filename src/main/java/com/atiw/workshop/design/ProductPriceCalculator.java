@@ -1,4 +1,4 @@
-package com.aharon.workshop;
+package com.aharon.workshop.design;
 
 import java.util.HashMap;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.aharon.workshop;
+package com.aharon.workshop.algo;
 
 import org.junit.*;
 

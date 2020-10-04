@@ -1,6 +1,6 @@
-package com.aharon.workshop;
+package com.aharon.workshop.codding;
 /**
- * This file contains examples how to deal with Java stream
+ * This class contains examples how to deal with Java stream
  */
 import org.junit.Test;
 
@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 public class StreamExamples {
 
-    private static List<Integer> integerList = Arrays.asList(20, 1,55, 33, 12, 6, 9, 100);
+    private static final List<Integer> integerList = Arrays.asList(20, 1,55, 33, 12, 6, 9, 100);
 
     @Test
     public void test1() {
